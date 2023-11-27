@@ -10,3 +10,13 @@ body{
     font-family: 'Pixelify Sans', sans-serif;
     font-size: 40px;
 }
+
+#Graficos{
+    height: 200;
+    width: 1200;
+}
+
+#Console{
+    height: 200;
+    width: 1200;
+}
